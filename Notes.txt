@@ -1,3 +1,4 @@
 This Note-File, will be used to write down important things!
+It will also contain something like a "TODO" list.
 
 ---NOTES---
