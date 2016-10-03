@@ -2,3 +2,9 @@ This Note-File, will be used to write down important things!
 It will also contain something like a "TODO" list.
 
 ---NOTES---
+Sync a Fork:
+    $ git remote add upstream https://github.com/[Original Owner Username]/[Original Repository].git
+    $ git fetch upstream
+    $ git checkout master
+    $ git merge upstream/upstream
+    $ git push
