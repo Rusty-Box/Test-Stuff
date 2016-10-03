@@ -8,3 +8,6 @@ Sync a Fork:
     $ git checkout master
     $ git merge upstream/upstream
     $ git push
+
+Delete branch:
+    $ git push origin --delete <branch_name>
